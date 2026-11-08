@@ -5,7 +5,7 @@
 - **รหัสนักศึกษา:** 66080904
 - **ชื่อ-สกุล:** กันต์ณิษา อินตรา
 - **มหาวิทยาลัย:** มหาวิทยาลัยศรีปทุม คณะเทคโนโลยีสารสนเทศ
-- **เว็บ DApp (GitHub Pages):** https://teemo0909.github.io/REPO_NAME/
+- **เว็บ DApp (GitHub Pages):** https://teemo0909.github.io/Smart-Contract-w6-Kannisa/
 - **Contract address (Sepolia):** 0x3053d5EF8D59E529F3fF8B205c2f4560aFF72144
 
 ## ไฟล์ใน repo
